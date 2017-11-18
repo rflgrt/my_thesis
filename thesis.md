@@ -23,7 +23,7 @@ link-citations: true
 \newpage
 
 # Einleitung
-Hier kommt einiger Text zum Thema der Arbeit und viele, viele Zitate [@Graeff1996]. Mal sehen, was passiert, wenn ich hier noch ein wenig Text einfüge.
+Hier kommt einiger Text zum Thema der Arbeit und viele, viele Zitate [@Graeff1996]. Mal sehen, was passiert, wenn ich hier noch ein wenig Text einfüge. So, wenn ich weiter schreibe, und wieder speicher sollte es mir gelingen.
 
 ![Eine schnell mit Inkscape erstellte Abbildung zum Testen, ob das funktioniert](figure1.png)
 
